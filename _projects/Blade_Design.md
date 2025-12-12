@@ -35,17 +35,17 @@ I was responsible for creating the CAD model of the wind‑turbine blade. This r
 <table align="center">
   <tr>
     <td align="center" style="padding: 15px;">
-      <img src="assets/images/model.png" width="100"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/model.png" width="100"/><br/>
       <em>Figure 1: CAD Model</em>
     </td>
 
     <td align="center" style="padding: 15px;">
-      <img src="assets/images/setup.png" width="250"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/setup.png" width="250"/><br/>
       <em>Figure 2: Wind Turbine Blades in the Setup</em>
     </td>
 
     <td align="center" style="padding: 15px;">
-      <img src="assets/images/curve.png" width="250"/><br/>
+      <img src="{{ site.baseurl }}/assets/images/curve.png" width="250"/><br/>
       <em>Figure 3: Power vs RPM Curves</em>
     </td>
   </tr>
